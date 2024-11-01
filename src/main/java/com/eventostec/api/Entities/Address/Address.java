@@ -20,7 +20,6 @@ public class Address {
     @Id
     @GeneratedValue
     private UUID id;
-
     private String city;
     private String uf;
 
